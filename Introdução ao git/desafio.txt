@@ -1,0 +1,3 @@
+Olá meu nome é Rafael Vieira, e estou participando do Bootcamp da Spread Fullstack Developer.
+
+Aqui está o meu primeiro repositório, utilizando git e github.
